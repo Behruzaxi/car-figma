@@ -1,0 +1,20 @@
+.orange{
+    color: #EE8313;
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+padding: 12px 24px;
+border: 1px solid #EE8313;
+background: transparent ;
+}
+
+.orange_secondary{
+    padding: 12px 24px;
+    outline: none;
+    color: white;
+    border: none;
+    background: #EE8313;
+    border-radius: 3px;
+
+}

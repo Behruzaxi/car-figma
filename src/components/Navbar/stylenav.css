@@ -1,0 +1,36 @@
+
+.boxRightnavbar{
+    width: 800px;
+    border: 2px solid white;
+    justify-content: end;
+    align-items: center;
+}
+
+nav{
+    display: flex;
+    width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list{
+    gap: 48px;
+    display: flex;
+
+}
+
+.list_item{
+    color: #fff;
+    font-family: Be Vietnam Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.16px;
+}
+
+.btn{
+    margin-left: 60px;
+
+}
