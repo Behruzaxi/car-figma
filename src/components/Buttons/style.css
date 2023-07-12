@@ -22,3 +22,25 @@
     border: 1px solid #EE8313;
     cursor: pointer;
 }
+
+.orange:hover{
+    color: #EE8313;
+    border-radius: 1px solid #EE8313;
+    background: transparent;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-trasition: .4s;
+    -o-transition: .4s;
+}
+
+.orange_secondary:hover{
+    color: #EE8313;
+    border-radius: 1px solid #EE8313;
+    background: transparent;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-trasition: .4s;
+    -o-transition: .4s; 
+}
