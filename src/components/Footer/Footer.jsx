@@ -9,7 +9,7 @@ export default function Footer() {
                 <div className="foo">
                     <div className="footer-div">
                         <img src={logo} alt="" className="footer-logo" />
-                        <p className="footer-p">HKinvision</p>
+                        <p className="footer-kin">HKinvision</p>
                     </div>
                     <p className="the">The World's Best Luxury <br /> Car’s Dealing Platform</p>
                 </div>
@@ -33,9 +33,9 @@ export default function Footer() {
                         <li className="list-item-footer">More Cars</li>
                     </ul>
                     <ul className="list-footer">
-                        <li className="list-item-footer text-fo j">facebook</li>
-                        <li className="list-item-footer text-fo fo">Instagram</li>
-                        <li className="list-item-footer text-fo fo"> YouTube</li>
+                        <li className="list-item-footer text-fo f">facebook</li>
+                        <li className="list-item-footer text-fo facebook">Instagram</li>
+                        <li className="list-item-footer text-fo facebook"> YouTube</li>
                     </ul>
                 </div>
             </div>
