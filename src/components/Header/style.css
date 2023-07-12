@@ -1,0 +1,47 @@
+header {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+}
+
+.header-left {
+    width: 500px;
+
+}
+
+.text-header {
+    color: #FFF;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0.312px;
+    margin-bottom: 32px;
+}
+
+.paragraf {
+    color: #FFF;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 48px;
+    letter-spacing: -0.408px;
+}
+.btn-group-header{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.text-number-followers{
+    display: flex;
+    gap: 40px;
+}
+
+.text-all{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.car-image{
+    width: 100%;
+}

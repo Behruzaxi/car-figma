@@ -1,20 +1,24 @@
+
+
 .orange{
-    color: #EE8313;
-font-family: Be Vietnam Pro;
-font-size: 16px;
-font-style: normal;
-font-weight: 600;
-padding: 12px 24px;
-border: 1px solid #EE8313;
-background: transparent ;
+    padding: 12px 24px;
+    background: #EE8313;
+    outline: none;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    border: 1px solid #EE8313;
+    color: #fff;
+    cursor: pointer;
 }
+
 
 .orange_secondary{
     padding: 12px 24px;
-    outline: none;
-    color: white;
-    border: none;
-    background: #EE8313;
-    border-radius: 3px;
-
+    color: #EE8313;
+    font-size: 16px;
+    font-weight: 600;
+    background: transparent;
+    border: 1px solid #EE8313;
+    cursor: pointer;
 }

@@ -1,36 +1,33 @@
-
-.boxRightnavbar{
+.boxRightNavbar {
     width: 800px;
-    border: 2px solid white;
+    display: flex;
     justify-content: end;
     align-items: center;
 }
 
-nav{
+nav {
     display: flex;
     width: 1200px;
     margin: auto;
+    margin-top: 40px;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 160px;
 }
 
-.list{
-    gap: 48px;
+.list {
     display: flex;
-
+    gap: 48px;
 }
 
-.list_item{
-    color: #fff;
-    font-family: Be Vietnam Pro;
+.btn {
+    margin-left: 60px;
+}
+
+.list_item {
     font-size: 16px;
-    font-style: normal;
     font-weight: 600;
     line-height: 24px;
-    letter-spacing: 0.16px;
-}
-
-.btn{
-    margin-left: 60px;
-
+    letter-spacing: 0.01em;
+    color: #fff;
 }
